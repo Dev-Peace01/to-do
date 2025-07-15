@@ -76,7 +76,6 @@ body{
 }
 
 .task-activities {
-  
    padding: 10px 20px;
    border-bottom: 1px solid;
    border-color: #999;
@@ -188,5 +187,7 @@ justify-content: flex-start;
         border: 2px solid #000;
     }
 
-    
+    .task-control{
+    font-size: 12px;
+}
 }
